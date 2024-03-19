@@ -1,4 +1,4 @@
-![image](https://github.com/kanishka2305/Implementation-of-filter/assets/113497357/064204c0-f2d3-473c-9f63-182536ed8436)# Implementation-of-filter
+
 ## Aim:
 To implement filters for smoothing and sharpening the images in the spatial domain.
 
